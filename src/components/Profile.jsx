@@ -4,7 +4,7 @@ export default function Profile() {
       <div className="profile">
         <img
           className="profile-img"
-          src="../../public/profile.png"
+          src="/profile.png"
           alt="profile-pic"
         />
         <h1>Sujal Rawat</h1>
